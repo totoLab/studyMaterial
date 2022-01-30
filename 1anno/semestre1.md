@@ -3,12 +3,12 @@ appunti corsi - https://drive.google.com/drive/folders/1vxD3c678juomc8P4xPQry1Cp
 appunti esercitazioni - https://drive.google.com/drive/folders/1Q7z-zMgg9KwTbGaujarMTS3dJrdRuidA
 registrazioni audio - https://drive.google.com/drive/folders/1-9_eJ4z39QJDtH9VE4yUMleXAF4UqJ9t
 
+### libri (consigliati e non)
+https://drive.google.com/drive/folders/1-lyJiLedBGsGvGE2Vk7E1mpI1qLV9_aC
+
 ## materiale esami (riassunti):
 fondamenti di informatica 1 - https://wind-blouse-209.notion.site/Fondamenti-di-Informatica-1-8a867d523e474d6fa70648cc91dc7e2d
 algebra lineare + matematica computazionale (no logica) - https://drive.google.com/drive/folders/1eZUHtg40yEQVZdXxwwuF7_GluB3q3TCd
-
-### libri (consigliati e non)
-https://drive.google.com/drive/folders/1-lyJiLedBGsGvGE2Vk7E1mpI1qLV9_aC
 
 ## risorse per lo studio:
 ### matematica computazionale
