@@ -21,4 +21,4 @@
 [Lezioni calcolo combinatorio](https://youtube.com/playlist?list=PL056CC710F7E17321)
 
 ### fondamenti di informatica
-[Visualizzatore di codice](https://pythontutor.com/visualize.html#mode=edit)
+[Visualizzatore codice Python](https://pythontutor.com/visualize.html#mode=edit)
