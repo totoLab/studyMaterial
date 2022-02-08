@@ -3,6 +3,10 @@
 [appunti esercitazioni](https://drive.google.com/drive/folders/1Q7z-zMgg9KwTbGaujarMTS3dJrdRuidA)<br/>
 [registrazioni audio](https://drive.google.com/drive/folders/1-9_eJ4z39QJDtH9VE4yUMleXAF4UqJ9t)
 
+### libri
+[già scaricati](https://drive.google.com/drive/folders/1-lyJiLedBGsGvGE2Vk7E1mpI1qLV9_aC)<br/>
+[dove scaricarne altri](https://z-lib.org/) (a volte lo chiudono, ma torna attivo in qualche giorno)
+
 ## materiale esami (riassunti):
 [fondamenti di informatica 1](https://wind-blouse-209.notion.site/Fondamenti-di-Informatica-1-8a867d523e474d6fa70648cc91dc7e2d)<br/>
 [algebra lineare + matematica computazionale (no logica)](https://drive.google.com/drive/folders/1eZUHtg40yEQVZdXxwwuF7_GluB3q3TCd)
