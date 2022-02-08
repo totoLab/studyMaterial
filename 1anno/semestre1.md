@@ -25,7 +25,8 @@
 ### algebra lineare
 [Teoria](https://www.lezionidimatematica.net/indici/matrici.htm)<br/>
 [Utility per le matrici](https://matrixcalc.org/en/)<br/>
-[Lezioni calcolo combinatorio](https://youtube.com/playlist?list=PL056CC710F7E17321)
+[Lezioni calcolo combinatorio](https://youtube.com/playlist?list=PL056CC710F7E17321)<br/>
+[Cheat-sheet calcolo combinatorio](https://www.matematika.it/public/allegati/39/15_04_Calcolo_combinatorio_1_0.pdf)
 
 ### fondamenti di informatica
 [Visualizzatore codice Python](https://pythontutor.com/visualize.html#mode=edit)
