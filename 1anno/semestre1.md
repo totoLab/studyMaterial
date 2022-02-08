@@ -7,6 +7,9 @@
 [fondamenti di informatica 1](https://wind-blouse-209.notion.site/Fondamenti-di-Informatica-1-8a867d523e474d6fa70648cc91dc7e2d)<br/>
 [algebra lineare + matematica computazionale (no logica)](https://drive.google.com/drive/folders/1eZUHtg40yEQVZdXxwwuF7_GluB3q3TCd)
 
+### appelli precedenti (esercitazioni)
+[algebra lineare](https://drive.google.com/drive/folders/1Upz6TfzT7al_b0OHqk3AKYwu_9n9Yozr?usp=sharing)
+
 ## risorse per lo studio:
 ### matematica (in generale)
 [Wolframalpha](https://www.wolframalpha.com/) - non ha bisogno di presentazioni
