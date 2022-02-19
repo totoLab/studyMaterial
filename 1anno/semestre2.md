@@ -1,6 +1,6 @@
 # 2° semestre 2021-2022
-[appunti corsi]()<br/>
-[appunti esercitazioni]()<br/>
+[appunti corsi](https://drive.google.com/drive/folders/1xjf_Vg7_uTmjG-sJLncldyMhgoeRGHv2?usp=sharing)<br/>
+[appunti esercitazioni](https://drive.google.com/drive/folders/1Y-T90IPvTzHyIcqKMRELJEgNr1hRcDtl?usp=sharing)<br/>
 [registrazioni audio]()
 
 ## materiale esami
@@ -12,6 +12,8 @@
 [reti logiche e calcolatori]()<br/>
 [fondamenti di informatica 2]()<br/>
 [fisica]()
+
+### flashcard [cartella](https://drive.google.com/drive/folders/1ZzaJdtaCHeN6HFBOM6BP3_pYBV1_GyVZ?usp=sharing)
 
 ## risorse per lo studio:
 ### reti logiche e calcolatori
