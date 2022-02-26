@@ -21,3 +21,4 @@
 
 ### fondamenti di informatica 2
 [Java tutorial passo-passo ita](https://www.programiz.com/java-programming)
+[Java cheat-sheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
