@@ -20,5 +20,5 @@
 [NASM - assembler Intel-like syntax](https://github.com/netwide-assembler/nasm)
 
 ### fondamenti di informatica 2
-[Java tutorial passo-passo ita](https://www.programiz.com/java-programming)
+[Java tutorial passo-passo ita](https://www.programiz.com/java-programming)<br/>
 [Java cheat-sheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
