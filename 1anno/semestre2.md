@@ -21,7 +21,8 @@
 
 ### fondamenti di informatica 2
 [Java tutorial passo-passo ita](https://www.programiz.com/java-programming)<br/>
-[Java cheat-sheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
+[Java cheat-sheet](https://www.codewithharry.com/blogpost/java-cheatsheet)<br/>
+[Codice Java dalle lezioni](https://github.com/totoLab/java-ingegneria-informatica)
 
 ### fisica
 [Canale YT lezioni fisica](https://www.youtube.com/c/StepbyStepFisica)<br/>
