@@ -4,16 +4,11 @@
 [registrazioni audio]()
 
 ## materiale esami
-### timeline
-[pdf](https://drive.google.com/file/d/1dU7xZiOFHH7kud6ttGsedWzSF8Pm8F_z/view?usp=sharing)<br/>
-[goodnotes-format](https://drive.google.com/file/d/1WseDfCLlljVKp9MaXNqrwmocm_5X2F-O/view?usp=sharing)
 
 ### riassunti
 [reti logiche e calcolatori]()<br/>
 [fondamenti di informatica 2]()<br/>
 [fisica]()
-
-### flashcard [cartella](https://drive.google.com/drive/folders/1ZzaJdtaCHeN6HFBOM6BP3_pYBV1_GyVZ?usp=sharing)
 
 ## risorse per lo studio:
 ### reti logiche e calcolatori
