@@ -5,14 +5,7 @@
 
 ## materiale esami
 
-### riassunti
-[reti logiche e calcolatori]()<br/>
-[fondamenti di informatica 2]()<br/>
-[fisica]()
-
 ### [tracce d'esame](https://drive.google.com/drive/folders/1-10zpam9z3wFJbv9JNrA0XhzExYTfVsb)
-
-### flashcard [cartella](https://drive.google.com/drive/folders/1ZzaJdtaCHeN6HFBOM6BP3_pYBV1_GyVZ?usp=sharing)
 
 ## risorse per lo studio:
 ### reti logiche e calcolatori
