@@ -5,7 +5,8 @@
 
 ## materiale esami
 
-### [tracce d'esame](https://drive.google.com/drive/folders/1-10zpam9z3wFJbv9JNrA0XhzExYTfVsb)
+[tracce d'esame](https://drive.google.com/drive/folders/1-10zpam9z3wFJbv9JNrA0XhzExYTfVsb)<br/>
+[esercizi assembly risolti (alcuni)](https://github.com/totoLab/ex-retiLogiche/)
 
 ## risorse per lo studio:
 ### reti logiche e calcolatori
