@@ -12,7 +12,7 @@
 ### reti logiche e calcolatori
 [NASM - assembler Intel-like syntax](https://github.com/netwide-assembler/nasm)<br/>
 [asld - assembler + linker all in one script](https://github.com/totoLab/scripts/blob/master/asld)<br/>
-[Assembly x86 su Mac M1](https://gist.github.com/totoLab/34c3e04a0e40c03ef268d3a7fa5f02df)
+[Assembly x86 su Mac M1](https://gist.github.com/totoLab/34c3e04a0e40c03ef268d3a7fa5f02df)<br/>
 [Assembly tutorial - en](https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
 
 ### fondamenti di informatica 2
