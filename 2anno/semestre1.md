@@ -1,4 +1,4 @@
-# 2° semestre 2021-2022
+# 1° semestre 2022-2023
 ## appunti
 [corsi (formativo)](shorturl.at/cfHR9)<br/>
 [esercitazioni (formativo)](shorturl.at/cfHR9)<br/>
