@@ -1,13 +1,13 @@
 # 1° semestre 2022-2023
 ## appunti
-[corsi (formativo)](shorturl.at/cfHR9)<br/>
-[esercitazioni (formativo)](shorturl.at/cfHR9)<br/>
-[codice dalle lezioni](shorturl.at/cfHR9)
+[corsi (formativo)](http://shorturl.at/dIS03)<br/>
+[esercitazioni (formativo)](http://shorturl.at/dIS03)<br/>
+[codice dalle lezioni](http://shorturl.at/dIS03)
 
 ## materiale esami
 
-[tracce d'esame](shorturl.at/cfHR9)<br/>
-[soluzioni](shorturl.at/cfHR9)
+[tracce d'esame](http://shorturl.at/dIS03)<br/>
+[soluzioni](http://shorturl.at/dIS03)
 
 [riassunti docsity](https://www.docsity.com/it/utenti/profilo/antolab_/documents/)
 
