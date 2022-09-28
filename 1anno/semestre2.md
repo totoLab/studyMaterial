@@ -1,7 +1,7 @@
 # 2° semestre 2021-2022
 [appunti corsi](https://drive.google.com/drive/folders/1xjf_Vg7_uTmjG-sJLncldyMhgoeRGHv2?usp=sharing)<br/>
 [appunti esercitazioni](https://drive.google.com/drive/folders/1Y-T90IPvTzHyIcqKMRELJEgNr1hRcDtl?usp=sharing)<br/>
-[codice Java dalle lezioni](https://github.com/totoLab/java-ingegneria-informatica)
+[codice Java dalle lezioni](https://github.com/totoLab/java-ingegneria-informatica/tree/main/fondamentiDiInformatica2)
 
 ## materiale esami
 
