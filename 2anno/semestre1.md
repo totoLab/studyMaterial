@@ -13,7 +13,7 @@
 
 ## risorse per lo studio:
 #### programmazione a oggetti
-Vedi codice dalle lezioni in [appunti](#appunti)
+vedi codice dalle lezioni in [appunti](#appunti)
 
 #### elettrotecnica
 
