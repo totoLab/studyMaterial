@@ -13,13 +13,16 @@
 
 ## risorse per lo studio:
 #### programmazione a oggetti
+Vedi codice dalle lezioni in [appunti](#appunti)
 
 #### elettrotecnica
 
 ### formativo:
 #### analisi 2
+[lezioni registrate prof](https://sites.google.com/unical.it/micho)
 
 #### metodi probabilisti ricerca operativa
+[slide trascritte](https://wind-blouse-209.notion.site/Metodi-probabilistici-della-ricerca-operativa-2779d5b554024248b12957b5d7228933)
 
 ### professionalizzante:
 #### economia aziendale
