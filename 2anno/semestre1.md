@@ -2,7 +2,7 @@
 ## appunti
 [corsi (formativo)](https://drive.google.com/drive/folders/1803CsJsSdxn1mf55Ln1ngAVZNF8qj7qq?usp=sharing)<br/>
 [esercitazioni (formativo)](https://drive.google.com/drive/folders/1dm9MjUQZuLXkogkWCJtPUJ8xGd2HbMp5?usp=sharing)<br/>
-[codice dalle lezioni](https://github.com/totoLab/java-ingegneria-informatica/tree/main/oop)
+[codice dalle lezioni](https://github.com/totoLab/java-ingegneria-informatica/)
 
 ## materiale esami
 
