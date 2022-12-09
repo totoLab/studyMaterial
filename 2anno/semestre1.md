@@ -19,6 +19,7 @@ vedi codice dalle lezioni in [appunti](#appunti)
 
 #### analisi 2
 [lezioni registrate prof](https://sites.google.com/unical.it/micho)
+[schemi/mind maps](https://drive.google.com/file/d/1WiFlrv6xifUfgT1iRp6AtAuioqhvAJtr/view?usp=share_link)
 
 #### metodi probabilisti ricerca operativa
 [slide trascritte](https://wind-blouse-209.notion.site/Metodi-probabilistici-della-ricerca-operativa-2779d5b554024248b12957b5d7228933)
