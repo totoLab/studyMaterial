@@ -6,10 +6,8 @@
 
 ## materiale esami
 
-[flashcards/riassunti](https://drive.google.com/drive/folders/1DWHaR6k-uVv9PNJy2sl_deie7oc5mmjp?usp=share_link)
+[flashcards/riassunti](https://drive.google.com/drive/folders/1DWHaR6k-uVv9PNJy2sl_deie7oc5mmjp?usp=share_link))<br/>
 [tracce d'esame](https://drive.google.com/drive/folders/1ViOhFnk3-vAHSXo4u2DIAYkdADhAUwkZ?usp=sharing)<br/>
-[soluzioni](https://tsparticles.github.io/404-templates/space/404.html)
-
 [riassunti docsity](https://www.docsity.com/it/utenti/profilo/antolab_/documents/)
 
 ## risorse per lo studio:
