@@ -6,6 +6,7 @@
 
 ## materiale esami
 
+[flashcards/riassunti](https://drive.google.com/drive/folders/1DWHaR6k-uVv9PNJy2sl_deie7oc5mmjp?usp=share_link)
 [tracce d'esame](https://drive.google.com/drive/folders/1ViOhFnk3-vAHSXo4u2DIAYkdADhAUwkZ?usp=sharing)<br/>
 [soluzioni](https://tsparticles.github.io/404-templates/space/404.html)
 
@@ -15,7 +16,8 @@
 #### programmazione a oggetti
 vedi codice dalle lezioni in [appunti](#appunti)
 
-#### elettrotecnica
+#### elettromagnetismo
+[formulario + dimostrazioni ordinate](https://drive.google.com/file/d/1v2n2NaFcuKFBIoEt4yAi9F5gTncqfWOg/view?usp=sharing)
 
 #### analisi 2
 [lezioni registrate prof](https://sites.google.com/unical.it/micho)
