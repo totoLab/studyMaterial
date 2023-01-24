@@ -14,6 +14,7 @@
 ## risorse per lo studio:
 #### programmazione a oggetti
 vedi codice dalle lezioni in [appunti](#appunti)
+[teoria spiegata da chatGPT](https://github.com/totoLab/java-ingegneria-informatica/blob/main/corso-poo-2022-2023/Theory.md)
 
 #### elettrotecnica
 
