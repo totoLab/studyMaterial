@@ -2,7 +2,7 @@
 ## appunti
 [corsi (formativo)](https://drive.google.com/drive/folders/1803CsJsSdxn1mf55Ln1ngAVZNF8qj7qq?usp=sharing)<br/>
 [esercitazioni (formativo)](https://drive.google.com/drive/folders/1dm9MjUQZuLXkogkWCJtPUJ8xGd2HbMp5?usp=sharing)<br/>
-[codice dalle lezioni](https://github.com/totoLab/java-ingegneria-informatica/)
+[codice dalle lezioni](https://github.com/totoLab/code-ingegneria-informatica/)
 
 ## materiale esami
 
@@ -13,7 +13,7 @@
 ## risorse per lo studio:
 #### programmazione a oggetti
 vedi codice dalle lezioni in [appunti](#appunti)
-[teoria spiegata da chatGPT](https://github.com/totoLab/java-ingegneria-informatica/blob/main/corso-poo-2022-2023/Theory.md)
+[teoria spiegata da chatGPT](https://github.com/totoLab/code-ingegneria-informatica/blob/main/corso-poo-2022-2023/Theory.md)
 
 #### elettromagnetismo
 [formulario + dimostrazioni ordinate](https://drive.google.com/file/d/1v2n2NaFcuKFBIoEt4yAi9F5gTncqfWOg/view?usp=sharing)
