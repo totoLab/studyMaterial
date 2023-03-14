@@ -2,7 +2,7 @@
 ## appunti
 [corsi (formativo)](https://drive.google.com/drive/folders/1d7ChB3I3Xko_63vfln9n0i8vf8BoIPeT?usp=sharing)<br/>
 [esercitazioni (formativo)](https://drive.google.com/drive/folders/1d7ChB3I3Xko_63vfln9n0i8vf8BoIPeT?usp=sharing)<br/>
-[codice dalle lezioni]()
+[codice dalle lezioni](https://github.com/totoLab/code-ingegneria-informatica/)
 
 ## materiale esami
 
