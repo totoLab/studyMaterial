@@ -6,7 +6,7 @@
 
 ## materiale esami
 
-[flashcards/riassunti](https://drive.google.com/drive/folders/1DWHaR6k-uVv9PNJy2sl_deie7oc5mmjp?usp=share_link))<br/>
+[flashcards/riassunti](https://drive.google.com/drive/folders/1DWHaR6k-uVv9PNJy2sl_deie7oc5mmjp?usp=share_link)<br/>
 [tracce d'esame](https://drive.google.com/drive/folders/1ViOhFnk3-vAHSXo4u2DIAYkdADhAUwkZ?usp=sharing)<br/>
 [riassunti docsity](https://www.docsity.com/it/utenti/profilo/antolab_/documents/)
 
