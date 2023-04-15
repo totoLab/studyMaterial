@@ -1,7 +1,7 @@
 # 1° Semestre 2021-2022
 [appunti corsi](https://drive.google.com/drive/folders/1vxD3c678juomc8P4xPQry1CpsDwO8nm9)<br/>
 [appunti esercitazioni](https://drive.google.com/drive/folders/1Q7z-zMgg9KwTbGaujarMTS3dJrdRuidA)<br/>
-[registrazioni audio](https://drive.google.com/drive/folders/1-9_eJ4z39QJDtH9VE4yUMleXAF4UqJ9t)
+[codice Python](https://github.com/totoLab/code-ingegneria-informatica/)
 
 ### libri
 [già scaricati](https://drive.google.com/drive/folders/1-lyJiLedBGsGvGE2Vk7E1mpI1qLV9_aC)<br/>
