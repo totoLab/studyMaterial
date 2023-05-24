@@ -16,6 +16,7 @@
 #### elettrotecnica
 
 [script esercizi](https://github.com/totoLab/code-ingegneria-informatica/tree/main/elettrotecnica/script_esercizi)
+[risposte teoria elettrotecnica](https://www.notion.so/antolab/Risposte-Teoria-Elettrotecnica-776f902e4b4d4e1d99c79f2014bf1e13?pvs=4)
 
 #### sistemi operativi
 
