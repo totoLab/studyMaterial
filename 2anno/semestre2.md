@@ -15,6 +15,8 @@
 
 #### elettrotecnica
 
+[script esercizi](https://github.com/totoLab/code-ingegneria-informatica/tree/main/elettrotecnica/script_esercizi)
+
 #### sistemi operativi
 
 #### algoritmi e strutture dati
