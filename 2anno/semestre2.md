@@ -20,3 +20,5 @@
 #### algoritmi e strutture dati
 
 #### fondamenti di automatica
+
+[mappa concettuale](https://xmind.works/share/0XIyy7Pr)
