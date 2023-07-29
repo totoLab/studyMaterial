@@ -25,5 +25,6 @@
 
 #### fondamenti di automatica
 
+[risposte orale](https://antolab.notion.site/Risposte-Orale-Automatica-76ab237b1b0f46d79074b9ae467fec83?pvs=4)
 🚧 work in progress:
 [mappa concettuale](https://xmind.works/share/0XIyy7Pr)
