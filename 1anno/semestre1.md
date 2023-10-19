@@ -1,18 +1,6 @@
 # 1° Semestre 2021-2022
-[appunti corsi](https://drive.google.com/drive/folders/1vxD3c678juomc8P4xPQry1CpsDwO8nm9)<br/>
-[appunti esercitazioni](https://drive.google.com/drive/folders/1Q7z-zMgg9KwTbGaujarMTS3dJrdRuidA)<br/>
+[appunti, esercitazioni, riassunti e formulari](https://mega.nz/folder/fjZBBQqT#UxLWkip3KUhKT1i9zIr7Hw)<br/>
 [codice Python](https://github.com/totoLab/code-ingegneria-informatica/)
-
-### libri
-[già scaricati](https://drive.google.com/drive/folders/1-lyJiLedBGsGvGE2Vk7E1mpI1qLV9_aC)<br/>
-[dove scaricarne altri](https://z-lib.org/) (a volte lo chiudono, ma torna attivo in qualche giorno)
-
-## materiale esami (riassunti):
-[fondamenti di informatica 1](https://wind-blouse-209.notion.site/Fondamenti-di-Informatica-1-8a867d523e474d6fa70648cc91dc7e2d)<br/>
-[algebra lineare, matematica computazionale (no logica), analisi 1](https://drive.google.com/drive/folders/1eZUHtg40yEQVZdXxwwuF7_GluB3q3TCd)
-
-### appelli precedenti (esercitazioni)
-[algebra lineare](https://drive.google.com/drive/folders/1Upz6TfzT7al_b0OHqk3AKYwu_9n9Yozr?usp=sharing)
 
 ## risorse per lo studio:
 ### matematica (in generale)
@@ -30,3 +18,4 @@
 
 ### fondamenti di informatica
 [Visualizzatore codice Python](https://pythontutor.com/visualize.html#mode=edit)
+[riassunto](https://wind-blouse-209.notion.site/Fondamenti-di-Informatica-1-8a867d523e474d6fa70648cc91dc7e2d)<br/>

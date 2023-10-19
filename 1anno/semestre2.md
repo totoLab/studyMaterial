@@ -1,12 +1,6 @@
 # 2° semestre 2021-2022
-[appunti corsi](https://drive.google.com/drive/folders/1xjf_Vg7_uTmjG-sJLncldyMhgoeRGHv2?usp=sharing)<br/>
-[appunti esercitazioni](https://drive.google.com/drive/folders/1Y-T90IPvTzHyIcqKMRELJEgNr1hRcDtl?usp=sharing)<br/>
+[appunti, esercitazioni, riassunti e formulari](https://mega.nz/folder/fjZBBQqT#UxLWkip3KUhKT1i9zIr7Hw)<br/>
 [codice Java e Assembly dalle lezioni](https://github.com/totoLab/code-ingegneria-informatica/)
-
-## materiale esami
-
-[tracce d'esame](https://drive.google.com/drive/folders/1-10zpam9z3wFJbv9JNrA0XhzExYTfVsb)<br/>
-[esercizi assembly risolti (alcuni)](https://github.com/totoLab/ex-retiLogiche/)
 
 ## risorse per lo studio:
 ### reti logiche e calcolatori
@@ -14,6 +8,7 @@
 [asld - assembler + linker all in one script](https://github.com/totoLab/scripts/blob/master/asld)<br/>
 [Assembly x86 su Mac M1](https://gist.github.com/totoLab/34c3e04a0e40c03ef268d3a7fa5f02df)<br/>
 [Assembly tutorial - en](https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
+[esercizi assembly risolti](https://github.com/totoLab/code-ingegneria-informatica/tree/main/reti-logiche-assembly)
 
 ### fondamenti di informatica 2
 [Java tutorial passo-passo ita](https://www.programiz.com/java-programming)<br/>
