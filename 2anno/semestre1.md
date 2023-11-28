@@ -1,13 +1,10 @@
 # 1° semestre 2022-2023
 ## appunti
-[corsi (formativo)](https://drive.google.com/drive/folders/1803CsJsSdxn1mf55Ln1ngAVZNF8qj7qq?usp=sharing)<br/>
-[esercitazioni (formativo)](https://drive.google.com/drive/folders/1dm9MjUQZuLXkogkWCJtPUJ8xGd2HbMp5?usp=sharing)<br/>
+[appunti, esercitazioni, riassunti e formulari](https://mega.nz/folder/77xDmAbY#ur2uBv_Qdi_ZzbHW94Pizw)<br/>
 [codice dalle lezioni](https://github.com/totoLab/code-ingegneria-informatica/)
 
 ## materiale esami
 
-[flashcards/riassunti](https://drive.google.com/drive/folders/1DWHaR6k-uVv9PNJy2sl_deie7oc5mmjp?usp=share_link)<br/>
-[tracce d'esame](https://drive.google.com/drive/folders/1ViOhFnk3-vAHSXo4u2DIAYkdADhAUwkZ?usp=sharing)<br/>
 [riassunti docsity](https://www.docsity.com/it/utenti/profilo/antolab_/documents/)
 
 ## risorse per lo studio:
