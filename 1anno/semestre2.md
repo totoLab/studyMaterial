@@ -1,8 +1,5 @@
 # 2° semestre 2021-2022
-[appunti, esercitazioni, riassunti e formulari](https://mega.nz/folder/fjZBBQqT#UxLWkip3KUhKT1i9zIr7Hw)<br/>
-[codice Java e Assembly dalle lezioni](https://github.com/totoLab/code-ingegneria-informatica/)
 
-## risorse per lo studio:
 ### reti logiche e calcolatori
 [NASM - assembler Intel-like syntax](https://github.com/netwide-assembler/nasm)<br/>
 [asld - assembler + linker all in one script](https://github.com/totoLab/scripts/blob/master/asld)<br/>

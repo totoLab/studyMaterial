@@ -1,10 +1,7 @@
 # 1° Semestre 2021-2022
-[appunti, esercitazioni, riassunti e formulari](https://mega.nz/folder/fjZBBQqT#UxLWkip3KUhKT1i9zIr7Hw)<br/>
-[codice Python](https://github.com/totoLab/code-ingegneria-informatica/)
 
-## risorse per lo studio:
-### matematica (in generale)
-[Wolframalpha](https://www.wolframalpha.com/) - non ha bisogno di presentazioni
+### matematica
+[Wolframalpha](https://www.wolframalpha.com/)
 
 ### matematica computazionale
 [Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)<br/>
