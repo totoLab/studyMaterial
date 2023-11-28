@@ -1,7 +1,5 @@
 # 1° semestre 2022-2023
 
-[riassunti docsity](https://www.docsity.com/it/utenti/profilo/antolab_/documents/)
-
 #### programmazione a oggetti
 vedi codice dalle lezioni in [appunti](#appunti)
 [teoria spiegata da chatGPT](https://github.com/totoLab/code-ingegneria-informatica/blob/main/corso-poo-2022-2023/Theory.md)
