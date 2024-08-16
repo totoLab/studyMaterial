@@ -1,3 +1,3 @@
 # 3° anno
-- [appunti, esercitazioni, riassunti e formulari](https://drive.google.com/drive/folders/1tfpqkulbzUebl4w6vEXJrc5AUAzwcFeD?usp=drive_link)<br/>
+- [appunti, esercitazioni, riassunti e formulari](https://mega.nz/folder/eyJkUQDL#9CF-BE1MPpfg97gi92Atxg)<br/>
 - [codice dalle lezioni](https://github.com/totoLab/code-ingegneria-informatica/)
